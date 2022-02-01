@@ -1,0 +1,2 @@
+# esercizioBanca
+Esercizio Alice Vigo
